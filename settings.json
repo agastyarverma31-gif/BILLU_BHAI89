@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WAR_SMP_S1.aternos.me",
-    "port": 37125,
+    "ip": "bloodmcs1.pixelforge.gg",
+    "port": 26144,
     "version": "1.21.1"
   },
   "position": {
