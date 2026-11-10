@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "5.83.132.171",
-    "port": 26219,
+    "ip": "pvpsmp11.aternos.me",
+    "port": 20145,
     "version": "1.21.1"
   },
   "position": {
